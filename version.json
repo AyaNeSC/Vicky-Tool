@@ -1,5 +1,5 @@
 {
-  "version": "9.4",
-  "notes": "Added batch processing for multiple mods. Each mod can now have individual intensity, edge suppression, and texture opacity settings. Fixed slider and translation issues in batch mode.",
+  "version": "9.5",
+  "notes": "Fix BodyOil slot auto-assignment, exclude GIMI sections, fix BodyHead intensity detection, add green pixel mask fallback for full-image mods",
   "download_url": "https://www.patreon.com/cw/vickysama"
 }
