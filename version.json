@@ -1,5 +1,5 @@
 {
-  "version": "9.3",
-  "notes": "Test",
+  "version": "9.4",
+  "notes": "Added batch processing for multiple mods. Each mod can now have individual intensity, edge suppression, and texture opacity settings. Fixed slider and translation issues in batch mode.",
   "download_url": "https://www.patreon.com/cw/vickysama"
 }
