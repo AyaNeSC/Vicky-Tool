@@ -1,5 +1,5 @@
 {
-  "version": "9.5",
-  "notes": "Fix BodyOil slot auto-assignment, exclude GIMI sections, fix BodyHead intensity detection, add green pixel mask fallback for full-image mods",
+  "version": "1.5.3",
+  "notes": "",
   "download_url": "https://www.patreon.com/cw/vickysama"
 }
